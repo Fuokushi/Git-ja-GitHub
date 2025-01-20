@@ -6,6 +6,7 @@ Tämä tiedosto tarjoaa yksityiskohtaisen yleiskatsauksen siitä, mitä Git ja G
 
 ## **Mikä on Git?**
 ![Uusi kuva](./Git.png)
+
 Git on tehokas versiohallintajärjestelmä, jonka avulla voit seurata ja hallita ohjelmistoprojektiesi muutoksia. Se on avoimen lähdekoodin työkalu, jota käytetään laajalti ohjelmistokehityksessä ympäri maailmaa.
 
 ### **Gitin pääominaisuudet:**
