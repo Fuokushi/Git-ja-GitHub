@@ -17,6 +17,7 @@ Git on tehokas versiohallintajärjestelmä, jonka avulla voit seurata ja hallita
 ---
 
 ## **Mikä on GitHub?**
+![Toinen Kuva](./GitHub.png)
 
 GitHub on pilvipohjainen alusta, joka toimii Git-versionhallintajärjestelmän päällä. Sen avulla voit tallentaa, jakaa ja hallita Git-repositorioita tehokkaasti.
 
